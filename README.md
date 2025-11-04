@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub -->
-<div align="center">
+<div align="left">
 
-# 👋 Hi, I'm a Backend Developer  
+## 👋 Hi, I'm a Backend Developer  
 ### PHP • Laravel • Yii2
 
 💻 Creating reliable backend systems with clean architecture and clear business logic.  
@@ -15,8 +15,7 @@
 
 ### 🧰 Tech Stack
 
-#### 🖥️ Backend & Databases
-<p align="center">
+<p align="left"><strong>🖥️ Backend & Databases: </strong>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff" alt="Laravel" />
   <img src="https://img.shields.io/badge/Yii2-007EC6?logo=yii&logoColor=fff" alt="Yii2" />
@@ -28,9 +27,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff" alt="Redis" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff" alt="RabbitMQ" />
 </p>
-
-#### 🎨 Frontend & UI
-<p align="center">
+<p align="left"><strong>🎨 Frontend & UI: </strong>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff" alt="Vue.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
@@ -40,9 +37,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
 </p>
-
-#### ⚙️ DevOps & OS
-<p align="center">
+<p align="left"><strong>⚙️ DevOps & OS: </strong>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff" alt="Ubuntu" />
@@ -64,6 +59,11 @@
   Admin bot for managing the product catalog: adding, editing, and deleting product and category cards (using authentication). 
 
 📎 Check out my repositories: [github.com/icez91](https://github.com/icez91)
+
+---
+
+### 🎨 Outside of Work
+Passionate about **art** and **Formula 1** — both inspire precision, creativity, and attention to detail.
 
 ---
 
