@@ -68,7 +68,7 @@ Passionate about **art** and **Formula 1** — both inspire precision, creativit
 ---
 
 ### 💬 Contacts
-📫 **Email:** smallsweettooth@gmail.com  
+📫 **Email:** helga.smirnova.dev@gmail.com  
 💬 **Telegram:** [@helgaice](https://t.me/helgaice)
 
 ---
