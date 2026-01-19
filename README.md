@@ -50,13 +50,16 @@
 ### 🚀 Pet Projects
 
 - **🛒 Online Store (Backend API) + AI** — *(PHP, Laravel, PostgreSQL, Docker)*  
-  Implemented authentication (JWT-token), product, category and orders management, background queues, sending notifications and REST API for the frontend + experiments with AI integrations for generate picture by prompt
+  Implemented authentication (JWT-token), product, category and orders management, background queues, sending notifications and REST API for the frontend + experiments with AI integrations for generate picture by prompt. Work in progress.
+  [Link on Repository](https://github.com/icez91/artlab-backend)
 
 - **💻 Online Store (Frontend)** — *(React, TypeScript, Vite)*  
-  Client interface for interacting with the backend API: product catalog, item cards, orders, cart and routing. UI/UX prototype designed in **Figma AI tool**.
+  Client interface for interacting with the backend API: product catalog, item cards, orders, cart and routing. UI/UX prototype designed in **Figma AI tool**. Work in progress.
+  [Link on Repository](https://github.com/icez91/artlab-frontend)
 
 - **🤖 Telegram Bot for the Store** — *(Python, Telegram API)*  
-  Admin bot for managing the product catalog: adding, editing, and deleting product and category cards (using authentication). 
+  Admin bot for managing the product catalog: adding, editing, and deleting product and category cards (using authentication). Work in progress.
+  [Link on Repository](https://github.com/icez91/artlab-telegram-bot)
 
 📎 Check out my repositories: [github.com/icez91](https://github.com/icez91)
 
